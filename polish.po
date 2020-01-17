@@ -207,7 +207,7 @@ msgstr "Heh... czasami po prostu nie mogę się powstrzymać."
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToMale(1).LinesToMale
 msgctxt ",0685B494422BDD14CE725297CA6A02B0"
 msgid "See, there is nowhere in @WORLD_NAME@ that I haven't slithered."
-msgstr "Widzisz, nie ma miejsca w @WORLD_NAME@, przez które się nie prześlizgnęłam."
+msgstr "Widziesz, nie ma takiego miejsca w @WORLD_NAME@, przez które bym się nie prześlizgnęła."
 
 #. Key:	06DCC78B4F1DECA217645DA58B3BB2A4
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_R02_R01.Default__FernDefault01_R02_R01_C.SessionData.Lines(0).Lines
@@ -277,7 +277,7 @@ msgstr "Najszlachetniejszą, najpotężniejszą i najstraszliwszą poniżej fal 
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",0BB0A695454FD69DAA129F82F023EB23"
 msgid "A human! A super cute human, this is my lucky day. I've been waiting for this phenomenon for... huh. Well as long as I can remember!"
-msgstr "Człowiek! Wyjątkowo uroczy człowiek, to mój szczęśliwy dzień. Czekałam na taki fenomen od... huh. Cóż, od kiedy sięgam pamięcią!"
+msgstr "Człowiek! Wyjątkowo uroczy człowiek, to mój szczęśliwy dzień. Czekałam na ten nadzwyczajny moment od... cóż. Odkąd tylko sięgam pamięcią!"
 
 #. Key:	0BBD00B64AD7488CC6A8008C2BAF8B41
 #. SourceLocation:	/Game/World/Overworld.Overworld:PersistentLevel.VulwargKennel.ManageActionMessage
@@ -466,7 +466,7 @@ msgstr "Zrozum, człowieku, nasze wielkie, mięsiste ciała tętnią od żądzy 
 #: /Game/Dialogue/Fern/Default/FernDefault01_RL_F.Default__FernDefault01_RL_F_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",1187860A495AEE8B52286F8DA6A1DF53"
 msgid "What a lovely talking fern..."
-msgstr "Cóż za rozkoszna, mówiąca paproć..."
+msgstr "Cóż to za śliczna mówiąca paproć..."
 
 #. Key:	119BE39146D97EAD68AF26B063950DFD
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_Emissary.Default__LeylannaDefault01_Emissary_C.SessionData.Lines(6).Lines
@@ -592,7 +592,7 @@ msgstr "Wyruszam schwytać tę odmianę."
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R03.Default__FaleneDefault01_R03_C.SessionData.Lines(3).Lines
 msgctxt ",1673BDD74EF0FBC4372DF3AD600FC03A"
 msgid "Those floating busty winged statues with all the sparkles... I will admit I get all tingly inside around them too!"
-msgstr "Te unoszące się, cytate rzeźby ze skrzydłami skąpane w iskierkach... przyznam się, że czuję przyjemne mrowienie w całym ciele w ich pobliżu."
+msgstr "Te unoszące się cycate, skrzydlaste rzeźby, skąpne w iskierkach... Muszę przyznać, że też czuję rozkoszne mrowienie w całym ciele, kiedy jestem w ich pobliżu!"
 
 #. Key:	16E336BD48B5FD77EAAE96BC1BAAF7D4
 #. SourceLocation:	/Game/Dialogue/Camilla/SexScenes/CamillaAdorableLump.Default__CamillaAdorableLump_C.SessionData.LinesToMale(2).LinesToMale
