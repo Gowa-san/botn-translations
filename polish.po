@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: polish\n"
-"POT-Creation-Date: 2020-01-13 21:04\n"
-"PO-Revision-Date: 2020-01-13 21:04\n"
+"POT-Creation-Date: 2020-01-17 17:56\n"
+"PO-Revision-Date: 2020-01-17 17:56\n"
 "Language-Team: \n"
 "Language: pl-PL\n"
 "MIME-Version: 1.0\n"
@@ -123,7 +123,7 @@ msgstr "Ahh, zasiej swoje pyszne nasienie w moim drobnym ciałku! Daj mi... ohhh
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(6).LinesToFemale
 msgctxt ",03BD054E4D9907C2DF497EA4DCC0D8C3"
 msgid "My name is Falene, the leading @MONSTER_RACE@ specialist in all of @WORLD_NAME@."
-msgstr "Nazywam się Falene, czołowa specjalistka od @MONSTER_RACE@ w całym @WORLD_NAME@."
+msgstr "Nazywam się Falene, przodująca @MONSTER_RACE@ specjalistka w całym @WORLD_NAME@."
 
 #. Key:	03C3FCAE4B8424BCF5F580BC933E08E8
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_RL_T.Default__FernDefault01_RL_T_C.ResponseData(0).ResponseData.BreederPrompt
@@ -375,7 +375,7 @@ msgstr "Bezpłodny: Nie może mieć potomstwa."
 #: /Game/Dialogue/Emissary/Default/EmissaryRaiseTraitLvl_RL.Default__EmissaryRaiseTraitLvl_RL_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",0EA2FCF24AF05A8FBEF98C9F2C767D3A"
 msgid "Decline"
-msgstr "Odrzuć"
+msgstr "Odmów"
 
 #. Key:	0F0B2E364C42C3D6BACC018A46DB5BE4
 #. SourceLocation:	/Game/Dialogue/Falene/SexScenes/FaleneBlowJob.Default__FaleneBlowJob_C.SessionData.LinesToFuta(5).LinesToFuta
@@ -396,7 +396,7 @@ msgstr "Potrzebujesz kąpieli. Chodź, ułóż swoje ciało pomiędzy moimi pier
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_AboutKrakens.Default__MirruDefault01_AboutKrakens_C.SessionData.Lines(2).Lines
 msgctxt ",0F5F4BBA4C14BF84662CB09F0D97B147"
 msgid "While we have destructive past, most Krakens today are peaceful and seek only love and pleasure as other @MONSTER_RACE@."
-msgstr "Pomimo naszej niszczycielskiej przeszłości, większość Krakenów w tych czasach jest spokojna, szukają jedynie miłości i przyjemności, jak inne @MONSTER_RACE@."
+msgstr "Pomimo naszej niszczycielskiej przeszłości, większość Krakenów jest spokojna w tych czasach, szukają jedynie miłości i przyjemności, jak inne @MONSTER_RACE@."
 
 #. Key:	0FC69F2441505B7DAACAC7807627892D
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernDefault03_R05.Default__FernDefault03_R05_C.SessionData.Lines(1).Lines
@@ -508,7 +508,7 @@ msgstr "W głębi serca jesteśmy jedynie poszukiwaczami przyjemności!"
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(12).LinesToFemale
 msgctxt ",129E92F14686D57C52A26598C5257AF6"
 msgid "You have a beautiful set of fertile hips and breasts... you will make a great mate!"
-msgstr "Masz piękny komplet płodnych bioder oraz piersi... będzie z ciebie doskonały partner!"
+msgstr "Masz piękny komplet płodnych bioder oraz piersi... będzie z ciebie doskonały partner."
 
 #. Key:	12D3C80246AEABBC7C78CD8D7A2FD415
 #. SourceLocation:	/Game/Dialogue/Mirru/SexScenes/MirruSnatchT.Default__MirruSnatchT_C.SessionData.Lines(2).Lines
@@ -648,7 +648,7 @@ msgstr "Wróciłeś, żeby popieścić moje balony?"
 #: /Game/Dialogue/Neela/SexScenes/NeelaSnakeCuddleT.Default__NeelaSnakeCuddleT_C.SessionData.Lines(5).Lines
 msgctxt ",19C50B51465308E41B608B8EAE206DA7"
 msgid "*Pleasurable Moaning*"
-msgstr "*Jęki rozkoszy*"
+msgstr "Jęki rozkoszy"
 
 #. Key:	1A04D48D493996FF8EDD59A9DDB7C1A6
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_R01.Default__FernDefault02_R01_C.SessionData.Lines(0).Lines
@@ -676,7 +676,7 @@ msgstr "Poczuj moją niesamowitą, maślaną pałeczkę, człowieku! Ahhhh..."
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_Formuria.Default__MirruDefault01_Formuria_C.SessionData.Lines(4).Lines
 msgctxt ",1AF544224BFAECD89C2CE99B8EE6EB2D"
 msgid "It is custom for future queens to make pilgrimage to the dry lands and..."
-msgstr "Czy to zwyczaj wśród przyszłych królowych, by udawać się na pielgrzymkę na suchy ląd i..."
+msgstr "Czy to zwyczaj wśród przyszłych królowych, by udawać się na pielgrzymkę do suchej ziemi i..."
 
 #. Key:	1B5A3D3E4B34533CC5E7E599C01B1A38
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(30).LinesToFemale
@@ -704,7 +704,7 @@ msgstr "Wtedy zaczęli spółkować z wieloma istotami z tego świata. Taaak... 
 #: /Game/Dialogue/Leylanna/Default/LeylannaDefault01_RechargeSpiritForm.Default__LeylannaDefault01_RechargeSpiritForm_C.SessionData.Lines(2).Lines
 msgctxt ",1C9CDC1147105A3D3F0A43BB6C94695C"
 msgid "Alternatively, you can recharge your spirit form partially by engaging in sex with blessed ones."
-msgstr "Alternatywnie, możesz częściowo odnowić swoją postać ducha poprzez angażowanie się w seks z pobłogosławionymi."
+msgstr "Alternatywnie, możesz częściowo doładować swoją postać ducha poprzez angażowanie się w seks z pobłogosławionymi."
 
 #. Key:	1CF80140486F2A7F4E727D8E50B64B37
 #. SourceLocation:	/Game/Dialogue/Falene/SexScenes/FaleneBlowJob.Default__FaleneBlowJob_C.SessionData.LinesToFemale(7).LinesToFemale
@@ -900,7 +900,7 @@ msgstr "Chcę skosztować pochwy Krakena..."
 #: /Game/Dialogue/Fern/DefaultP2/FernGreeting02.Default__FernGreeting02_C.SessionData.LinesToFemale(2).LinesToFemale
 msgctxt ",23E7B88A464A51712A11B1A07FE361A3"
 msgid "I am a growing Alraune, perhaps you have fluids to spare?"
-msgstr "Jestem dorastającą Alraune, może masz niepotrzebne płyny?"
+msgstr "Jestem doarstającą Alraune, może masz niepotrzebne płyny?"
 
 #. Key:	240A4A634DB7018141BD60B5A94B716C
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeDefault01_Accent.Default__AmberMaeDefault01_Accent_C.SessionData.Lines(0).Lines
@@ -991,7 +991,7 @@ msgstr "Gdy przybyłam tu po raz pierwszy, wzięła mnie w swe objęcia i z cał
 #: /Game/Dialogue/Fern/Default/FernDefault01_RL_F.Default__FernDefault01_RL_F_C.ResponseData(3).ResponseData.BreederPrompt
 msgctxt ",27CC628A41235ABEF7B863AD06577CD3"
 msgid "You may have my breast milk!"
-msgstr "Przyjmij moje mleko!"
+msgstr "Przyjmij moje mleko."
 
 #. Key:	28D2D40946F49E829D7D26B007908332
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieGreeting01.Default__CassieGreeting01_C.SessionData.Lines(8).Lines
@@ -1138,7 +1138,7 @@ msgstr "Wow! Nie może być!"
 #: /Game/Dialogue/Fern/Default/FernDefault01_R04.Default__FernDefault01_R04_C.SessionData.Lines(1).Lines
 msgctxt ",2E926B8847D675F1C4CAAFAC2732930B"
 msgid "Fern need human milk to grow into big Alraune! Hissss, Fern suck nipples now!"
-msgstr "Paproć potrzeba ludzkiego mleka by urosła do dużej Alraune! Sssss, teraz Paproć ssie sutki!"
+msgstr "Paproć potrzeba ludzkiego mleka by urosła do dużej Alraune! Hissss, teraz Paproć ssie sutki!"
 
 #. Key:	2F5513164D00080A441C1292E501C786
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeGreeting01.Default__AmberMaeGreeting01_C.SessionData.Lines(4).Lines
@@ -1250,7 +1250,7 @@ msgstr "Nazywam się Cassie, jestem tutejszym architektem."
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_R07.Default__CamillaDefault01_R07_C.SessionData.LinesToFuta(1).LinesToFuta
 msgctxt ",341E99EA4A6DE606AFFC6D8A11C1B7D5"
 msgid "Amber's tits are bigger than me! Why is this world so cruel..."
-msgstr "Cycki Amber są większe ode mnie! Czemu ten świat jest taki okrutny..."
+msgstr "Cycki Amber są większe ode mnie! Ten świat jest taki okrutny..."
 
 #. Key:	34C104D84D1D1734B9408FA6B2BDA125
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01_Meow_ButterStick.Default__CassieDefault01_Meow_ButterStick_C.SessionData.Lines(0).Lines
