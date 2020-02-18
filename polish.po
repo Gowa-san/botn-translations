@@ -3861,7 +3861,7 @@ msgstr "Oh, może chcesz tego mleka?"
 #: /Game/World/Overworld.Overworld:PersistentLevel.SeraphimLoft.ManageActionMessage
 msgctxt ",8F8279FC4A2E364B7CE585981E0279EF"
 msgid "Manage your Seraphim"
-msgstr "Zarządzaj Seraphim"
+msgstr "Zarządzaj Serafinami"
 
 #. Key:	8FD6281749815A4E5D3B62A257075F76
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R02.Default__FaleneDefault01_R02_C.SessionData.Lines(9).Lines
@@ -3875,49 +3875,49 @@ msgstr "Większość jest taka jak ja, pragniemy twojej miłości! To zarówno b
 #: /Game/Dialogue/Leylanna/Default/LeylannaDefault01_SpiritForm.Default__LeylannaDefault01_SpiritForm_C.SessionData.Lines(1).Lines
 msgctxt ",8FF3797442838C0E95D3409B6C613E43"
 msgid "Even from the Void, they adore you breeder. You have made it your goal to bring them into this world so that they might experience pleasure and love."
-msgstr ""
+msgstr "Wielbią cię nawet z Pustki, hodowco. Postawiłeś sobie za cel sprowadzić je do tego świata, by mogły doświadczyć namiętności i miłości."
 
 #. Key:	8FFFE80A49114390AEF4A190D3F0A48F
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(11 - Value).TraitIcons.DisplayName
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(11 - Value).TraitIcons.DisplayName
 msgctxt ",8FFFE80A49114390AEF4A190D3F0A48F"
 msgid "Fertile"
-msgstr ""
+msgstr "Płodny"
 
 #. Key:	900A82D44250A3392806469644B7B93B
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryGreeting01.Default__EmissaryGreeting01_C.SessionData.Lines(3).Lines
 #: /Game/Dialogue/Emissary/Default/EmissaryGreeting01.Default__EmissaryGreeting01_C.SessionData.Lines(3).Lines
 msgctxt ",900A82D44250A3392806469644B7B93B"
 msgid "However, roaming this land are lesser @MONSTER_RACE@, to which many brand as \"wild\"."
-msgstr ""
+msgstr "Jednak, wędrują po tym świecie pomniejsze @MONSTER_RACE@, które wielu zwie \"dzikimi\"."
 
 #. Key:	902A41DB403EFA60B99E8CB596EFE0BF
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02.Default__FernDefault02_C.SessionData.LinesToFemale(3).LinesToFemale
 #: /Game/Dialogue/Fern/DefaultP2/FernDefault02.Default__FernDefault02_C.SessionData.LinesToFemale(3).LinesToFemale
 msgctxt ",902A41DB403EFA60B99E8CB596EFE0BF"
 msgid "My body longs for your delicious breast milk."
-msgstr ""
+msgstr "Moje ciało pragnie twojego przepysznego mleka."
 
 #. Key:	907E7C35462D4EC3BC72C5B05C7ABDB9
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyGreeting01.Default__RomyGreeting01_C.SessionData.LinesGrungy(2).LinesGrungy
 #: /Game/Dialogue/Romy/Default/RomyGreeting01.Default__RomyGreeting01_C.SessionData.LinesGrungy(2).LinesGrungy
 msgctxt ",907E7C35462D4EC3BC72C5B05C7ABDB9"
 msgid "I hear your eyes working your way down my voluptuous form, your heart beats faster, but... oh... no."
-msgstr ""
+msgstr "Słyszę, jak twoje oczy obrabiają moje jędrne kształty, twoje serce bije szybciej, lecz... oh... nie."
 
 #. Key:	90AAD27D43E39D45DAC8A492F1373436
 #. SourceLocation:	/Game/Dialogue/Falene/SexScenes/FaleneBlowJob.Default__FaleneBlowJob_C.SessionData.LinesToMale(9).LinesToMale
 #: /Game/Dialogue/Falene/SexScenes/FaleneBlowJob.Default__FaleneBlowJob_C.SessionData.LinesToMale(9).LinesToMale
 msgctxt ",90AAD27D43E39D45DAC8A492F1373436"
 msgid "*Suck* *Suck*"
-msgstr ""
+msgstr "*Ssanie* *Ssanie*"
 
 #. Key:	90BF47A74AF19E981D455BAB280C9D02
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(13 - Value).TraitIcons.HelpText
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(13 - Value).TraitIcons.HelpText
 msgctxt ",90BF47A74AF19E981D455BAB280C9D02"
 msgid "Hedonist: Gains the XP that would have been granted to the other mate."
-msgstr ""
+msgstr "Hedonista: Otrzymuje PD, które normalnie otrzymałby partner."
 
 #. Key:	90CF176E415EE7CEA27716868800482A
 #. SourceLocation:	/Game/Dialogue/Blossom/Default/BlossomGreeting01.Default__BlossomGreeting01_C.SessionData.Lines(4).Lines
@@ -3931,42 +3931,42 @@ msgstr "Czasss na płyyynyyyy?"
 #: /Game/Characters/Procedural/Variants/Dragon/Harvest/DragonHarvest.Default__DragonHarvest_C.Harvest.RaceName
 msgctxt ",90DA01BE4F6814F010ECF99D4730B696"
 msgid "Dragon"
-msgstr ""
+msgstr "Smok"
 
 #. Key:	91C04C0641057656CC61A48472D8954C
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_R03.Default__FernDefault02_R03_C.SessionData.Lines(1).Lines
 #: /Game/Dialogue/Fern/DefaultP2/FernDefault02_R03.Default__FernDefault02_R03_C.SessionData.Lines(1).Lines
 msgctxt ",91C04C0641057656CC61A48472D8954C"
 msgid "I need human cum to grow into my final form. Your dick will slide all the way down my throat as I suck every drop."
-msgstr ""
+msgstr "Potrzebuję ludzkiej spermy, by dojrzeć do mojej ostatecznej postaci. Twój kutas będzie zjeżdżać do mojego gardła, gdy będę wysysać wszystko do ostatniej kropli."
 
 #. Key:	926325814BBC6464CA76E097764B7F27
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(0 - Value).TraitIcons.HelpText
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(0 - Value).TraitIcons.HelpText
 msgctxt ",926325814BBC6464CA76E097764B7F27"
 msgid "Hominal: Inherited more human traits."
-msgstr ""
+msgstr "Ludzki: Odziedziczył więcej ludzkich cech."
 
 #. Key:	92E3821949A8C289A4AAFCA4103F1915
 #. SourceLocation:	/Game/Dialogue/Camilla/SexScenes/CamillaAdorableLump.Default__CamillaAdorableLump_C.SessionData.LinesToMale(3).LinesToMale
 #: /Game/Dialogue/Camilla/SexScenes/CamillaAdorableLump.Default__CamillaAdorableLump_C.SessionData.LinesToMale(3).LinesToMale
 msgctxt ",92E3821949A8C289A4AAFCA4103F1915"
 msgid "Yes! Ohhhh, so big... keep going human! Ahh..."
-msgstr ""
+msgstr "Tak! Ohhhh, taki wielki... nie przestawaj, człowieku! Ahh..."
 
 #. Key:	92E810794E27E1F318AD0C9D4701705B
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01_Meow.Default__CassieDefault01_Meow_C.SessionData.LinesToFuta(5).LinesToFuta
 #: /Game/Dialogue/Cassie/Default/CassieDefault01_Meow.Default__CassieDefault01_Meow_C.SessionData.LinesToFuta(5).LinesToFuta
 msgctxt ",92E810794E27E1F318AD0C9D4701705B"
 msgid "My fuzzy hands will fix this, but some human love could help too..."
-msgstr ""
+msgstr "Moje puszyste dłonie to napawią, ale odrobina ludzkiej miłości też nie zaszkodzi..."
 
 #. Key:	93200BC643D32038D21FA9A6972CB59F
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryBlessedInquiry01_RL.Default__EmissaryBlessedInquiry01_RL_C.ResponseData(1).ResponseData.BreederPrompt
 #: /Game/Dialogue/Emissary/Default/EmissaryBlessedInquiry01_RL.Default__EmissaryBlessedInquiry01_RL_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",93200BC643D32038D21FA9A6972CB59F"
 msgid "Amazing!"
-msgstr ""
+msgstr "Niesamowite!"
 
 #. Key:	93ACD44B44EFF7C20AF15E9D718C3166
 #. SourceLocation:	/Game/Breeding/Positions/Missionary.Default__Missionary_C.SessionData.PositionName
@@ -4246,7 +4246,7 @@ msgstr ""
 #: /Game/Characters/Procedural/Variants/Seraphim/Harvest/SeraphimHarvest.Default__SeraphimHarvest_C.Harvest.RaceName
 msgctxt ",9B658408464A163996BF3E91C08BB92A"
 msgid "Seraphim"
-msgstr ""
+msgstr "Serafin"
 
 #. Key:	9B8AE2F943E1AF24641C2BB8C4C41176
 #. SourceLocation:	/Game/Dialogue/Camilla/SexScenes/CamillaAdorableLump.Default__CamillaAdorableLump_C.SessionData.LinesToMale(0).LinesToMale
@@ -4722,7 +4722,7 @@ msgstr ""
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(0 - Value).TraitIcons.DisplayName
 msgctxt ",B088E0624E17857FAE8AE4B893251DA2"
 msgid "Hominal"
-msgstr ""
+msgstr "Ludzki"
 
 #. Key:	B11026CD462D3D9C5256F4A490A45911
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R07.Default__FaleneDefault01_R07_C.SessionData.LinesToFuta(1).LinesToFuta
@@ -4841,7 +4841,7 @@ msgstr ""
 #: /Game/Dialogue/Fern/DefaultP3/FernDefault03.Default__FernDefault03_C.SessionData.LinesToFemale(3).LinesToFemale
 msgctxt ",B48E37AC4977FA95BA4EB3B39018F087"
 msgid "My body longs for your delicious breast milk."
-msgstr ""
+msgstr "Moje ciało pragnie twojego przepysznego mleka."
 
 #. Key:	B49B5FD64432ADC45593F3B4F50455B6
 #. SourceLocation:	/Game/Breeding/Positions/Waterfall.Default__Waterfall_C.SessionData.PositionName
@@ -5436,7 +5436,7 @@ msgstr ""
 #: /Game/Dialogue/Fern/DefaultP3/FernDefault03.Default__FernDefault03_C.SessionData.LinesToFuta(3).LinesToFuta
 msgctxt ",CEC660F240FC0F1941C19ABA02D18068"
 msgid "Let me wrap my lips around that fat cock of yours, my body longs for your warm cum."
-msgstr ""
+msgstr "Pozwól moim ustom objąć twojego grubego kutasa, moje ciało pragnie twojej spermy."
 
 #. Key:	CEE2CED74492461582B4EB8D5D2CB4B6
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R02.Default__FaleneDefault01_R02_C.SessionData.Lines(11).Lines
@@ -5667,7 +5667,7 @@ msgstr ""
 #: /Game/Dialogue/Fern/DefaultP2/FernGreeting02.Default__FernGreeting02_C.SessionData.LinesToFemale(3).LinesToFemale
 msgctxt ",D7B87B2D4E7F9B733C981C804A0914C8"
 msgid "My body longs for your delicious breast milk."
-msgstr ""
+msgstr "Moje ciało pragnie twojego przepysznego mleka."
 
 #. Key:	D7CBF3A849F90F40A1E899A00B974FBA
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToFemale(1).LinesToFemale
